@@ -1,0 +1,3 @@
+Username=31091511
+Password=592928
+Adress=http://172.200.200.200/srun_portal_success?ac_id=1&theme=pro
